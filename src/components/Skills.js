@@ -4,7 +4,9 @@ import { FaReact, FaNodeJs, FaLaravel, FaJava, FaPhp } from 'react-icons/fa';
 import { motion } from 'framer-motion';
 import { SiExpress, SiGit, SiMongodb } from 'react-icons/si';
 import { BsDatabase } from 'react-icons/bs';
-import { TbBrandReactNative } from 'react-icons/tb';
+import { TbBrandReact } from 'react-icons/tb';
+import { FaHtml5 } from "react-icons/fa";  // HTML Icon
+import { SiTailwindcss } from "react-icons/si";  // Tailwind CSS Icon
 
 const skills = [
   {
@@ -37,9 +39,14 @@ const skills = [
     text: "JavaScript"
   },
   {
-    icon: <FaPhp />,
-    text: "PHP"
+    icon: <FaHtml5 />,
+    text: "HTML"
   },
+  {
+    icon: <SiTailwindcss />,
+    text: "Tailwind CSS"
+  },
+ 
  
 ];
 

@@ -1,0 +1,81 @@
+/* Hero Section */
+.hero {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Full viewport height */
+    padding: 2rem;
+    background: linear-gradient(135deg, white, white); /* Professional gradient background */
+    color: black; /* White text color */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Card Container */
+  .card-container {
+    display: flex;
+    align-items: center;
+    gap: 3rem; 
+    max-width: 1200px;
+    width: 100%;
+    padding: 2.5rem;
+     
+    border-radius: 16px; 
+   
+    
+  }
+  
+  /* Hero Image */
+  .hero-image {
+    width: 320px;
+    height: 320px;
+    border-radius: 50%; /* Circular image */
+    object-fit: cover;
+    border: 5px solid rgb(8, 8, 8); /* Highlight border */
+    box-shadow: 0 8px 24px rgba(74, 144, 226, 0.4); /* Glow effect */
+  }
+  
+  /* Hero Text */
+  .hero-text {
+    max-width: 600px;
+  }
+  
+  .hero-text h2 {
+    font-size: 2.8rem;
+    margin-bottom: 1.5rem;
+    color: black;
+    font-weight: 700; /* Bold heading */
+  }
+  
+  .hero-text p {
+    font-size: 1rem;
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+    color: black; /* Light gray text */
+  }
+  
+  .hero-text p:last-child {
+    margin-bottom: 0;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 768px) {
+    .card-container {
+      flex-direction: column;
+      text-align: center;
+      padding: 1.5rem;
+      gap: 2rem;
+    }
+  
+    .hero-image {
+      width: 240px;
+      height: 240px;
+    }
+  
+    .hero-text h2 {
+      font-size: 2.2rem;
+    }
+  
+    .hero-text p {
+      font-size: 1rem;
+    }
+  }

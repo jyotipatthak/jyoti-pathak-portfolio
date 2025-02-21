@@ -45,7 +45,13 @@ const About = () => (
   <section className="about">
     <h2>About Me</h2>
     
-      <CanvaEmbed />
+    Hi, I’m JYOTI PATHAK, a passionate web developer with a knack for crafting clean, functional, and visually engaging digital experiences. As a GATE-qualified professional, I bring a strong foundation in computer science and a problem-solving mindset to every project I undertake.
+
+I’m deeply interested in the intersection of technology and social impact. Whether it’s building platforms that empower communities, creating tools for education, or contributing to open-source projects, I strive to use my skills to make a positive difference. I’m also an active LinkedIn enthusiast, where I share insights on web development, tech trends, and the role of technology in driving social change.
+
+When I’m not coding, you’ll find me exploring ways to connect with like-minded professionals, collaborating on socially impactful initiatives, or diving into discussions about how technology can address real-world challenges. Let’s connect and build something meaningful together!
+
+This version highlights your technical expertise, social interests, and LinkedIn presence, making it perfect for your portfolio. Let me know if you'd like further tweaks!
 
   </section>
 );

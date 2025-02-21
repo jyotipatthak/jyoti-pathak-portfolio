@@ -11,7 +11,7 @@ const projects = [
   {
     title: "wishmart.vercel.app",
     description: "Developed a wishmart application featuring intuitive user interfaces and efficient E-shopping website . providing secure authentication .",
-    link: "wishmart.vercel.app"
+    link: "https://wishmart.vercel.app/"
   },
   {
     title: "flipkart clone",
@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Personal Portfolio",
     description: "Created a professional portfolio website using React, highlighting my skills, projects, and work experiences. The site showcases a modern design, animated interactions, and is fully responsive, ensuring an optimal viewing experience on all devices.",
-    link: ""
+    link: "http://localhost:3000/jyoti-pathak/"
   }
 ];
 
