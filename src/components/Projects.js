@@ -27,7 +27,7 @@ const projects = [
   {
     title: "Personal Portfolio",
     description: "Created a professional portfolio website using React, highlighting my skills, projects, and work experiences. The site showcases a modern design, animated interactions, and is fully responsive, ensuring an optimal viewing experience on all devices.",
-    link: "http://localhost:3000/jyoti-pathak/"
+    link: "http://localhost:3000/jyoti-pathttps://jyoti-pathak-portfolio.vercel.app/"
   }
 ];
 
