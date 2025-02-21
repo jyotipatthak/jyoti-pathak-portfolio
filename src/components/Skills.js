@@ -1,10 +1,10 @@
 import React from 'react';
-import { FaReact, FaNodeJs, FaLaravel, FaJava, FaPhp } from 'react-icons/fa';
-// import './Skills.css';
+import { FaReact, FaNodeJs,  FaJava,  } from 'react-icons/fa';
+
 import { motion } from 'framer-motion';
 import { SiExpress, SiGit, SiMongodb } from 'react-icons/si';
 import { BsDatabase } from 'react-icons/bs';
-import { TbBrandReact } from 'react-icons/tb';
+
 import { FaHtml5 } from "react-icons/fa";  // HTML Icon
 import { SiTailwindcss } from "react-icons/si";  // Tailwind CSS Icon
 

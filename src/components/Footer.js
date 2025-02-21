@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { BsGithub, BsInstagram, BsLinkedin } from 'react-icons/bs';
 import { GoMail } from 'react-icons/go';
-import emailjs from 'emailjs-com';
+
 import './Footer.css';
 
 const Footer = () => {
