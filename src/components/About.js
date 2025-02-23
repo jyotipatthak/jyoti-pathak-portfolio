@@ -50,7 +50,7 @@ I’m deeply interested in the intersection of technology and social impact. Whe
 
 When I’m not coding, you’ll find me exploring ways to connect with like-minded professionals, collaborating on socially impactful initiatives, or diving into discussions about how technology can address real-world challenges. Let’s connect and build something meaningful together!
 
-This version highlights your technical expertise, social interests, and LinkedIn presence, making it perfect for your portfolio. Let me know if you'd like further tweaks!
+
 
   </section>
 );
